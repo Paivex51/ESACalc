@@ -2,7 +2,7 @@ import math, os
 
 # nivel de optimizaçao pretendido 200% obtido ???
 
-vO = ["+", "-", "*", "/", "%", "s", "p"]
+vO = ["+", "-", "*", "/", "%", "s", "p"] #s -> sqrt, p -> power
 
 
 def cE(v):
